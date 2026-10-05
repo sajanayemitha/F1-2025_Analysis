@@ -20,14 +20,12 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
-- [Why This Project Matters](#-why-this-project-matters)
 - [Dataset](#-dataset)
 - [Questions Answered](#-questions-answered)
 - [Analysis and Findings](#-analysis-and-findings)
 - [Key Takeaways](#-key-takeaways)
 - [Methodology](#-methodology)
 - [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
 - [Tech Stack](#-tech-stack)
 - [Future Improvements](#-future-improvements)
 - [Acknowledgements and License](#-acknowledgements-and-license)
