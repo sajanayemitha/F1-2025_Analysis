@@ -70,7 +70,6 @@ All data is stored in the [`csv/`](csv) folder:
 3. Which drivers and teams won the most races and took the most pole positions?
 4. Who was the most consistent point-scorer?
 5. Whose season was hurt most by retirements?
-6. How did the circuits on the calendar differ?
 
 ---
 
